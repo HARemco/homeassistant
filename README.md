@@ -1,5 +1,5 @@
 # homeassistant
 
-My first repo on GitHub is all about candy.
+My first repo on GitHub
 
 I Love :lollipop: Snoepies :candy:.
